@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-10-04T23:37:08+00:00
 url: /show-13-lgbtq-music-of-the-00s-and-10s/
-hero: /images/2016/11/6804430602_285c68e201_b-e1351818937997-300x200.jpg
+hero: /images/2016/11/6804430602_285c68e201_b-e1351818937997.jpg
 enclosure:
   - |
     http://dl.dropbox.com/u/78766980/2012.10.04-12.00.00-D.mp3

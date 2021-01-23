@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2016-01-19T18:30:25+00:00
 url: /seventy-five-songs-august-2015/
-hero: /images/2016/11/20611499526_57e146223a_z-300x200.jpg
+hero: /images/2016/11/20611499526_57e146223a_z.jpg
 categories:
   - Spotify Playlists
 tags:

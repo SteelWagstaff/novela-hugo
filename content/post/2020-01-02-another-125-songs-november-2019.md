@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2020-01-02T16:26:25+00:00
 url: /another-125-songs-november-2019/
-hero: /images/2020/01/IMG_0291-300x200.jpg
+hero: /images/2020/01/IMG_0291.jpg
 categories:
   - Spotify Playlists
 tags:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-11-29T19:30:48+00:00
 url: /show-20-thanksgiving/
-hero: /images/2016/11/6503767981_aa290ec900_n-1-300x200.jpg
+hero: /images/2016/11/6503767981_aa290ec900_n-1.jpg
 publicize_twitter_user:
   - SteelWagstaff
 enclosure:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-01-23T23:27:32+00:00
 url: /75-tracks-best-of-july-2013/
-hero: /images/2016/11/9366886647_d0470fb5f8-e1390840582817-300x199-300x199.jpg
+hero: /images/2016/11/9366886647_d0470fb5f8-e1390840582817.jpg
 publicize_facebook_url:
   - https://facebook.com/10203432925603442
 publicize_twitter_user:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-09-27T23:34:46+00:00
 url: /show-12-lgbtq-music-of-the-70s-80s-90s/
-hero: /images/2016/11/jobriarth-gatefold-e1399059443706-300x200.jpg
+hero: /images/2016/11/jobriarth-gatefold-e1399059443706.jpg
 enclosure:
   - |
     http://dl.dropbox.com/u/78766980/2012.09.27-11.00.00-D.mp3

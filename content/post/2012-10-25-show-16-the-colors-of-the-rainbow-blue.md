@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-10-25T23:48:58+00:00
 url: /show-16-the-colors-of-the-rainbow-blue/
-hero: /images/2016/11/17-santoshgr142-e1413224693376-300x200.jpg
+hero: /images/2016/11/17-santoshgr142-e1413224693376.jpg
 enclosure:
   - |
     https://dl.dropbox.com/u/78766980/18%20Colors%20of%20the%20Rainbow_%20Blue%20%5BShow.mp3

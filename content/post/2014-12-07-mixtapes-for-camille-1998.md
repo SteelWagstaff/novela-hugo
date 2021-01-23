@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-12-07T17:00:58+00:00
 url: /mixtapes-for-camille-1998/
-hero: /images/2016/11/Happy-New-Year-1998-300x200.jpg
+hero: /images/2016/11/Happy-New-Year-1998.jpg
 categories:
   - Mix Tapes
 tags:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-07-12T20:55:19+00:00
 url: /show-1-superstition-july-12-2012/
-hero: /images/2016/11/eric_laffourgue-e1413224483806-300x200.jpg
+hero: /images/2016/11/eric_laffourgue-e1413224483806.jpg
 categories:
   - Radio Shows
 tags:

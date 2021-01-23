@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-10-24T21:03:15+00:00
 url: /mixtapes-camille-1992/
-hero: /images/2016/11/1992-si-e1414184442669-300x200.jpg
+hero: /images/2016/11/1992-si-e1414184442669.jpg
 categories:
   - Mix Tapes
 tags:
