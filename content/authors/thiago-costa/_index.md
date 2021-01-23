@@ -1,19 +1,15 @@
 ---
-title: Thiago Costa
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
-avatar: /images/thiago-costa.jpg
-featured: false
+title: Steel Wagstaff
+bio: Trying to do good things for good reasons. Partner to Laurel Bastian. Product
+  manager at Pressbooks. Live in Eugene, OR. He/him
+avatar: "/images/steel_headshot.jpg"
+featured: true
 social:
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
-  - title: github
-    url: https://github.com
+- title: LinkedIn
+  url: https://www.linkedin.com/in/steel-wagstaff/
+- title: Twitter
+  url: https://twitter.com/steelwagstaff
+- title: GitHub
+  url: https://github.com/steelwagstaff
+
 ---
