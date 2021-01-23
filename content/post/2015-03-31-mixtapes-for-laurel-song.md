@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-03-31T07:00:10+00:00
 url: /mixtapes-for-laurel-song/
-hero: /2016/11/song.jpg
+hero: /images/2016/11/song.jpg
 categories:
   - Mix Tapes
 tags:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-03-17T07:00:04+00:00
 url: /mixtapes-for-laurel-work/
-hero: /2016/11/WORK.jpg
+hero: /images/2016/11/WORK.jpg
 categories:
   - Mix Tapes
 tags:

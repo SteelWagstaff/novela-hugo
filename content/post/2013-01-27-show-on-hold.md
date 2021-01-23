@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2013-01-27T21:36:31+00:00
 url: /show-on-hold/
-hero: /2016/11/goodbye.jpg
+hero: /images/2016/11/goodbye.jpg
 categories:
   - Spotify Playlists
 

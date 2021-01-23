@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-08-23T23:13:22+00:00
 url: /show-7-depression-august-23-2012/
-hero: /2012/11/16-elephant_900-e1351821488666.jpg
+hero: /images/2012/11/16-elephant_900-e1351821488666.jpg
 categories:
   - Radio Shows
 tags:

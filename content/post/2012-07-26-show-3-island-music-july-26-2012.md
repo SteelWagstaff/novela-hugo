@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-07-26T23:55:16+00:00
 url: /show-3-island-music-july-26-2012/
-hero: /2012/11/63602_a22450386f_b-e1399059276569.jpg
+hero: /images/2012/11/63602_a22450386f_b-e1399059276569.jpg
 categories:
   - Radio Shows
 tags:

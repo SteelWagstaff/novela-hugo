@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-12-29T07:00:10+00:00
 url: /laurels-b-day-mixes-disc-28/
-hero: /2016/11/6036179334_03e8707e9a_birthday-food-e1449508911622.jpg
+hero: /images/2016/11/6036179334_03e8707e9a_birthday-food-e1449508911622.jpg
 categories:
   - Mix Tapes
 tags:

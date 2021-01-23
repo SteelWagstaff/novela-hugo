@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-12-13T19:00:12+00:00
 url: /show-21-holiday-music/
-hero: /2016/11/4215359164_de0b5eaa211-e1355507383928-300x199-300x199.jpg
+hero: /images/2016/11/4215359164_de0b5eaa211-e1355507383928-300x199-300x199.jpg
 publicize_twitter_user:
   - SteelWagstaff
 enclosure:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-05-11T12:00:00+00:00
 url: /discs-for-laurel-hipz-hop-2/
-hero: /2016/11/dance.jpg
+hero: /images/2016/11/dance.jpg
 categories:
   - Mix Tapes
 tags:

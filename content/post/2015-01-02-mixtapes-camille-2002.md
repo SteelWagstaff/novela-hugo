@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-01-02T17:00:03+00:00
 url: /mixtapes-camille-2002/
-hero: /2016/11/New-Year-2002-300x200.jpg
+hero: /images/2016/11/New-Year-2002-300x200.jpg
 categories:
   - Mix Tapes
 tags:

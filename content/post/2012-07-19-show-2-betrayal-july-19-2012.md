@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-07-19T21:03:45+00:00
 url: /show-2-betrayal-july-19-2012/
-hero: /2016/11/tumblr_m2ybi87ig21qz6f9yo1_500-e1351821350428-1-300x200.jpg
+hero: /images/2016/11/tumblr_m2ybi87ig21qz6f9yo1_500-e1351821350428-1-300x200.jpg
 categories:
   - Radio Shows
 tags:

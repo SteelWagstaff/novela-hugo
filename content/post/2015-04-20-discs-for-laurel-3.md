@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-04-20T07:00:04+00:00
 url: /discs-for-laurel-3/
-hero: /2016/11/light.jpg
+hero: /images/2016/11/light.jpg
 categories:
   - Mix Tapes
 tags:

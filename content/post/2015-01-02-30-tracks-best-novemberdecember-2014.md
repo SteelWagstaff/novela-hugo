@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-01-02T10:00:40+00:00
 url: /30-tracks-best-novemberdecember-2014/
-hero: /2016/11/winter.jpg
+hero: /images/2016/11/winter.jpg
 categories:
   - Spotify Playlists
 tags:

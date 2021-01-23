@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-03-13T13:00:29+00:00
 url: /100-songs-best-of-february-2014/
-hero: /2014/03/february2-e1394042126980.jpg
+hero: /images/2014/03/february2-e1394042126980.jpg
 publicize_tumblr_url:
   - http://steelwagstaff.tumblr.com.tumblr.com/post/79469928198
 publicize_twitter_user:

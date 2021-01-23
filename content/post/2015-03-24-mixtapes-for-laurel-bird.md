@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-03-24T07:00:32+00:00
 url: /mixtapes-for-laurel-bird/
-hero: /2016/11/bird.jpg
+hero: /images/2016/11/bird.jpg
 categories:
   - Mix Tapes
 tags:

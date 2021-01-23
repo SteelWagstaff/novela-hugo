@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-03-01T09:00:44+00:00
 url: /75-songs-best-of-january-february-2015/
-hero: /2016/11/IMG_3334-300x200.jpg
+hero: /images/2016/11/IMG_3334-300x200.jpg
 categories:
   - Spotify Playlists
 tags:

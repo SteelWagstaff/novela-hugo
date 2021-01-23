@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-08-30T23:25:25+00:00
 url: /show-8-upbeat-summer-music-august-30-2012/
-hero: /2016/11/tumblr_m0mwfefbfy1qah2gqo1_500-e1351817105869-300x200.jpg
+hero: /images/2016/11/tumblr_m0mwfefbfy1qah2gqo1_500-e1351817105869-300x200.jpg
 categories:
   - Radio Shows
 tags:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-01-16T23:30:08+00:00
 url: /150-tracks-best-of-june-2013/
-hero: /2016/11/window-e1389739501913.jpg
+hero: /images/2016/11/window-e1389739501913.jpg
 publicize_facebook_url:
   - https://facebook.com/10203341406595524
 publicize_twitter_user:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2016-11-02T15:45:17+00:00
 url: /another-145-songs-september-2016/
-hero: /2016/11/september000.jpg
+hero: /images/2016/11/september000.jpg
 categories:
   - Spotify Playlists
 tags:

@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-09-20T23:30:44+00:00
 url: /show-11-lgbtq-music/
-hero: /2016/11/3453661-4296361621-e1399049483693.jpg
+hero: /images/2016/11/3453661-4296361621-e1399049483693.jpg
 enclosure:
   - |
     http://dl.dropbox.com/u/78766980/2012.09.20-12.00.00-D.mp3

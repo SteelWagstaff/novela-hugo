@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2016-01-05T07:00:41+00:00
 url: /laurels-b-day-mixes-disc-29/
-hero: /2016/11/232106694_fe31acf038_birthday-face-e1449509133945.jpg
+hero: /images/2016/11/232106694_fe31acf038_birthday-face-e1449509133945.jpg
 categories:
   - Mix Tapes
 tags:

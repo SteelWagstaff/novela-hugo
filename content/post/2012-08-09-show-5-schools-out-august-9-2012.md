@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-08-10T00:10:09+00:00
 url: /show-5-schools-out-august-9-2012/
-hero: /2016/11/schools-out-e1399059347346.jpg
+hero: /images/2016/11/schools-out-e1399059347346.jpg
 categories:
   - Radio Shows
 tags:

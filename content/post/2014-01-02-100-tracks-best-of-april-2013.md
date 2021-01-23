@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-01-02T23:00:08+00:00
 url: /100-tracks-best-of-april-2013/
-hero: /2014/01/april2013-e1389307154847.jpg
+hero: /images/2014/01/april2013-e1389307154847.jpg
 publicize_twitter_user:
   - SteelWagstaff
 publicize_twitter_url:

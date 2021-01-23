@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2013-12-25T21:10:33+00:00
 url: /24-hour-mega-mix-best-of-march-2013/
-hero: /2013/12/vault-entrance-e1388179585899.jpg
+hero: /images/2013/12/vault-entrance-e1388179585899.jpg
 publicize_facebook_url:
   - https://facebook.com/10203199346804118
 publicize_tumblr_url:

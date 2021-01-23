@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-02-24T21:04:36+00:00
 url: /mixtapes-camille-2010/
-hero: /2016/11/2010-701142.jpg
+hero: /images/2016/11/2010-701142.jpg
 categories:
   - Mix Tapes
 tags:

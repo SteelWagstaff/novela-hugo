@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-02-20T14:15:30+00:00
 url: /100-tracks-best-of-november-2013/
-hero: /2014/02/img_0554-e1391795316533-1200x801.jpg
+hero: /images/2014/02/img_0554-e1391795316533-1200x801.jpg
 publicize_tumblr_url:
   - http://steelwagstaff.tumblr.com.tumblr.com/post/77291544085
 categories:

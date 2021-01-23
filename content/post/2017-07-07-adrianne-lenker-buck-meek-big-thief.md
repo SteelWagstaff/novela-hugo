@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2017-07-07T19:37:51+00:00
 url: /adrianne-lenker-buck-meek-big-thief/
-hero: /2017/07/BigThief-300x200.jpg
+hero: /images/2017/07/BigThief-300x200.jpg
 categories:
   - Spotify Playlists
 tags:

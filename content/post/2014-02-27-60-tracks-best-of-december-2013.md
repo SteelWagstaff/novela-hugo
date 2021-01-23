@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-02-27T14:10:30+00:00
 url: /60-tracks-best-of-december-2013/
-hero: /2014/02/tumblr_n082paiasu1trwmgko1_12801-e1392213652610.jpg
+hero: /images/2014/02/tumblr_n082paiasu1trwmgko1_12801-e1392213652610.jpg
 publicize_twitter_user:
   - SteelWagstaff
 publicize_twitter_url:

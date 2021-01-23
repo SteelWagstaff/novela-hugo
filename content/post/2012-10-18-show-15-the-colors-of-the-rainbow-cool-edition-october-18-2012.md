@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-10-18T23:45:13+00:00
 url: /show-15-the-colors-of-the-rainbow-cool-edition-october-18-2012/
-hero: /2016/11/lakemogadore-e1413224567761-300x200.jpg
+hero: /images/2016/11/lakemogadore-e1413224567761-300x200.jpg
 categories:
   - Radio Shows
 tags:

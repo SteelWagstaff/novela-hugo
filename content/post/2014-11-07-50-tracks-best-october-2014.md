@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-11-07T20:19:39+00:00
 url: /50-tracks-best-october-2014/
-hero: /2016/11/october-e1416866886509.jpg
+hero: /images/2016/11/october-e1416866886509.jpg
 categories:
   - Spotify Playlists
 tags:

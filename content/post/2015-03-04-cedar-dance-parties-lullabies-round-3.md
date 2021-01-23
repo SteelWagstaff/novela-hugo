@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2015-03-04T15:59:02+00:00
 url: /cedar-dance-parties-lullabies-round-3/
-hero: /2016/11/IMG_4058.jpg
+hero: /images/2016/11/IMG_4058.jpg
 categories:
   - Spotify Playlists
 tags:

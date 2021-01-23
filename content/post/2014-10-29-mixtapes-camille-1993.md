@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-10-29T18:00:32+00:00
 url: /mixtapes-camille-1993/
-hero: /2016/11/gavel04.ans_.png
+hero: /images/2016/11/gavel04.ans_.png
 categories:
   - Mix Tapes
 tags:

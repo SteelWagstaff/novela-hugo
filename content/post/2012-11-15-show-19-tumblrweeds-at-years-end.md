@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2012-11-15T21:17:19+00:00
 url: /show-19-tumblrweeds-at-years-end/
-hero: /2016/11/tumbleweeds.jpg
+hero: /images/2016/11/tumbleweeds.jpg
 publicize_twitter_user:
   - SteelWagstaff
 publicize_reach:

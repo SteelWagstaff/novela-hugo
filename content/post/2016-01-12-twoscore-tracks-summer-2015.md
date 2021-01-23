@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2016-01-12T07:00:27+00:00
 url: /twoscore-tracks-summer-2015/
-hero: /2016/11/vacation.jpg
+hero: /images/2016/11/vacation.jpg
 categories:
   - Spotify Playlists
 tags:

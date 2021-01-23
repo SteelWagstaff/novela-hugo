@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2016-03-15T18:00:09+00:00
 url: /rowwwr-40-songs-animals/
-hero: /2016/11/6922564505_c7e3fea8cf_z.jpg
+hero: /images/2016/11/6922564505_c7e3fea8cf_z.jpg
 categories:
   - Spotify Playlists
 tags:

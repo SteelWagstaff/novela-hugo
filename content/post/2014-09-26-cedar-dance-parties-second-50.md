@@ -5,7 +5,7 @@ author: Steel Wagstaff
 type: post
 date: 2014-09-26T16:38:37+00:00
 url: /cedar-dance-parties-second-50/
-hero: /2016/11/Cedar_1423-e1411749388325-299x200.jpg
+hero: /images/2016/11/Cedar_1423-e1411749388325-299x200.jpg
 categories:
   - Spotify Playlists
 tags:
