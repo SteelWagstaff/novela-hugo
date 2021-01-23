@@ -4,8 +4,6 @@ bio: Trying to do good things for good reasons. Partner to Laurel Bastian. Produ
   manager at Pressbooks. Live in Eugene, OR. He/him
 avatar: "/images/steel_headshot.jpg"
 featured: true
-social:
-- title: GitHub
-  url: https://github.com/steelwagstaff
+social: []
 
 ---
