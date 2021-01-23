@@ -5,8 +5,6 @@ bio: Trying to do good things for good reasons. Partner to Laurel Bastian. Produ
 avatar: "/images/steel_headshot.jpg"
 featured: true
 social:
-- title: LinkedIn
-  url: https://www.linkedin.com/in/steel-wagstaff/
 - title: Twitter
   url: https://twitter.com/steelwagstaff
 - title: GitHub
