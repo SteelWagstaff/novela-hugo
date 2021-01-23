@@ -1,10 +1,11 @@
 ---
 title: '80 Songs [Best of August 2014]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-09-06T15:26:12+00:00
 url: /80-songs-best-of-august-2014/
-featured_image: /2014/09/photo-e1412372906810.jpg
+hero: /2014/09/photo-e1412372906810.jpg
 categories:
   - Spotify Playlists
 tags:

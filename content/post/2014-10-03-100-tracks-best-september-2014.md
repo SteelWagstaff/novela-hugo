@@ -1,10 +1,11 @@
 ---
 title: '100 Tracks [Best of September 2014]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-10-03T21:41:15+00:00
 url: /100-tracks-best-september-2014/
-featured_image: /2016/11/IMG_3013-e1412372400368.jpg
+hero: /2016/11/IMG_3013-e1412372400368.jpg
 categories:
   - Spotify Playlists
 tags:

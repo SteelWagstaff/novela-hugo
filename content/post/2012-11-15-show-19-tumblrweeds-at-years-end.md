@@ -1,10 +1,11 @@
 ---
 title: 'Show 19: Tumblrweeds at Year’s End'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-11-15T21:17:19+00:00
 url: /show-19-tumblrweeds-at-years-end/
-featured_image: /2016/11/tumbleweeds.jpg
+hero: /2016/11/tumbleweeds.jpg
 publicize_twitter_user:
   - SteelWagstaff
 publicize_reach:

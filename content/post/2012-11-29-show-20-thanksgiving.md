@@ -1,10 +1,11 @@
 ---
 title: 'Show 20: Thanksgiving!'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-11-29T19:30:48+00:00
 url: /show-20-thanksgiving/
-featured_image: /2016/11/6503767981_aa290ec900_n-1-300x200.jpg
+hero: /2016/11/6503767981_aa290ec900_n-1-300x200.jpg
 publicize_twitter_user:
   - SteelWagstaff
 enclosure:

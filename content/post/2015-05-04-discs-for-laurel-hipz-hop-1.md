@@ -1,10 +1,11 @@
 ---
 title: 'Discs for Laurel: Hipz Hop #1'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-05-04T07:00:58+00:00
 url: /discs-for-laurel-hipz-hop-1/
-featured_image: /2016/11/2130406615_895307bd3a_z-299x200.jpg
+hero: /2016/11/2130406615_895307bd3a_z-299x200.jpg
 categories:
   - Mix Tapes
 tags:

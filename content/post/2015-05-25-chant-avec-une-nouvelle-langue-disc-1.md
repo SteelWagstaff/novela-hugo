@@ -1,10 +1,11 @@
 ---
 title: 'Chant avec une nouvelle langue [Disc #1]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-05-25T08:00:29+00:00
 url: /chant-avec-une-nouvelle-langue-disc-1/
-featured_image: /2016/11/gull.jpg
+hero: /2016/11/gull.jpg
 categories:
   - Spotify Playlists
 tags:

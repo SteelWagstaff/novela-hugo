@@ -1,10 +1,11 @@
 ---
 title: 'Adrianne Lenker & Buck Meek & Big Thief'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2017-07-07T19:37:51+00:00
 url: /adrianne-lenker-buck-meek-big-thief/
-featured_image: /2017/07/BigThief-300x200.jpg
+hero: /2017/07/BigThief-300x200.jpg
 categories:
   - Spotify Playlists
 tags:

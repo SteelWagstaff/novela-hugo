@@ -1,10 +1,11 @@
 ---
 title: 'Mixtapes for Camille: 1997'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-12-01T19:00:20+00:00
 url: /mixtapes-camille-1997/
-featured_image: /2016/11/1997-e1421253678916.jpg
+hero: /2016/11/1997-e1421253678916.jpg
 categories:
   - Mix Tapes
 tags:

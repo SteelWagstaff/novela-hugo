@@ -1,10 +1,11 @@
 ---
 title: '200 Track Supermix [Best of October 2013]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-02-13T14:15:13+00:00
 url: /200-track-supermix-best-of-october-2013/
-featured_image: /2014/01/lamps-e1391019559583.jpg
+hero: /2014/01/lamps-e1391019559583.jpg
 publicize_facebook_url:
   - https://facebook.com/10203559653571562
 publicize_twitter_user:

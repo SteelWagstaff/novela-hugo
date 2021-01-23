@@ -1,10 +1,11 @@
 ---
 title: '75 Songs [Best of January & February 2015]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-03-01T09:00:44+00:00
 url: /75-songs-best-of-january-february-2015/
-featured_image: /2016/11/IMG_3334-300x200.jpg
+hero: /2016/11/IMG_3334-300x200.jpg
 categories:
   - Spotify Playlists
 tags:

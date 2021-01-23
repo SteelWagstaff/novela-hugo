@@ -1,10 +1,11 @@
 ---
 title: '29 Songs for 29 Days [February 2016]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2016-03-01T07:00:14+00:00
 url: /29-songs-for-29-days-february-2016/
-featured_image: /2016/11/24700242579_9f59685597_z.jpg
+hero: /2016/11/24700242579_9f59685597_z.jpg
 categories:
   - Spotify Playlists
 tags:

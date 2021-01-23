@@ -1,10 +1,11 @@
 ---
 title: 'Mixtapes for Laurel: BIRD'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-03-24T07:00:32+00:00
 url: /mixtapes-for-laurel-bird/
-featured_image: /2016/11/bird.jpg
+hero: /2016/11/bird.jpg
 categories:
   - Mix Tapes
 tags:

@@ -1,10 +1,11 @@
 ---
 title: '30 Tracks [Best of November/December 2014]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-01-02T10:00:40+00:00
 url: /30-tracks-best-novemberdecember-2014/
-featured_image: /2016/11/winter.jpg
+hero: /2016/11/winter.jpg
 categories:
   - Spotify Playlists
 tags:

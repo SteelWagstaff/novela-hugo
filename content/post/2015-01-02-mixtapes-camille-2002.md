@@ -1,10 +1,11 @@
 ---
 title: 'Mixtapes for Camille: 2002'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-01-02T17:00:03+00:00
 url: /mixtapes-camille-2002/
-featured_image: /2016/11/New-Year-2002-300x200.jpg
+hero: /2016/11/New-Year-2002-300x200.jpg
 categories:
   - Mix Tapes
 tags:

@@ -1,10 +1,11 @@
 ---
 title: 'Show 13: LGBTQ Music of the 00’s and 10’s'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-10-04T23:37:08+00:00
 url: /show-13-lgbtq-music-of-the-00s-and-10s/
-featured_image: /2016/11/6804430602_285c68e201_b-e1351818937997-300x200.jpg
+hero: /2016/11/6804430602_285c68e201_b-e1351818937997-300x200.jpg
 enclosure:
   - |
     http://dl.dropbox.com/u/78766980/2012.10.04-12.00.00-D.mp3

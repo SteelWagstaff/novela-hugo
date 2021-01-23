@@ -1,10 +1,11 @@
 ---
 title: 'Discs for Laurel #4'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-04-27T07:00:23+00:00
 url: /discs-for-laurel-4/
-featured_image: /2016/11/clouds.jpg
+hero: /2016/11/clouds.jpg
 categories:
   - Mix Tapes
 tags:

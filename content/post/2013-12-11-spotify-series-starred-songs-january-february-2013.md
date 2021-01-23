@@ -1,10 +1,11 @@
 ---
 title: 'Spotify Series: Starred Songs, January-February 2013'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2013-12-11T23:15:32+00:00
 url: /spotify-series-starred-songs-january-february-2013/
-featured_image: /2016/11/building_jennie-e1386801431928-300x200.jpg
+hero: /2016/11/building_jennie-e1386801431928-300x200.jpg
 publicize_facebook_url:
   - https://facebook.com/10203033780225057
 publicize_twitter_user:

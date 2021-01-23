@@ -1,10 +1,11 @@
 ---
 title: 'Mixtapes for Camille: 2010'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-02-24T21:04:36+00:00
 url: /mixtapes-camille-2010/
-featured_image: /2016/11/2010-701142.jpg
+hero: /2016/11/2010-701142.jpg
 categories:
   - Mix Tapes
 tags:

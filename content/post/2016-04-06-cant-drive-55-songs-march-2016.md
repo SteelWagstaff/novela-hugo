@@ -1,10 +1,11 @@
 ---
 title: 'I Can’t Drive … 55 (songs) [March 2016]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2016-04-06T20:36:07+00:00
 url: /cant-drive-55-songs-march-2016/
-featured_image: /2016/11/steel.jpg
+hero: /2016/11/steel.jpg
 categories:
   - Spotify Playlists
 tags:

@@ -1,10 +1,11 @@
 ---
 title: 'Show 17: Tumblring Through the Year'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-11-01T06:00:49+00:00
 url: /show-17-tumblring-through-the-year/
-featured_image: /2016/11/tumblr_lv1exkw7661qgc2p0o1_500-e1413224710411-300x200.jpg
+hero: /2016/11/tumblr_lv1exkw7661qgc2p0o1_500-e1413224710411-300x200.jpg
 publicize_twitter_user:
   - SteelWagstaff
 enclosure:

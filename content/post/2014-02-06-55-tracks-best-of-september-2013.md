@@ -1,10 +1,11 @@
 ---
 title: '55 Tracks [Best of September 2013]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-02-06T14:30:41+00:00
 url: /55-tracks-best-of-september-2013/
-featured_image: /2014/01/ac-w-dogs-e1390843326572.jpg
+hero: /2014/01/ac-w-dogs-e1390843326572.jpg
 publicize_facebook_url:
   - https://facebook.com/10203507955439141
 publicize_twitter_user:

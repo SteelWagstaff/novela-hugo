@@ -1,10 +1,11 @@
 ---
 title: 'Laurel’s B-Day Mixes [Disc #2]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-06-29T08:00:31+00:00
 url: /laurels-b-day-mixes-disc-2/
-featured_image: /2016/11/88504302_374d48debb_o-299x200.jpg
+hero: /2016/11/88504302_374d48debb_o-299x200.jpg
 categories:
   - Mix Tapes
 tags:

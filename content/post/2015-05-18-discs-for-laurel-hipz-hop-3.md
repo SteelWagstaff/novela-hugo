@@ -1,10 +1,11 @@
 ---
 title: 'Discs for Laurel: Hipz Hop #3'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-05-18T08:00:07+00:00
 url: /discs-for-laurel-hipz-hop-3/
-featured_image: /2016/11/lkj.jpg
+hero: /2016/11/lkj.jpg
 categories:
   - Mix Tapes
 tags:

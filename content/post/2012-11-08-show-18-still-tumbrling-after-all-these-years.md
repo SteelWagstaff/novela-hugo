@@ -1,10 +1,11 @@
 ---
 title: 'Show 18: Still Tumbrling After All These Years'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-11-08T19:00:26+00:00
 url: /show-18-still-tumbrling-after-all-these-years/
-featured_image: /2012/11/2879384390_f287eb54f8_b-e1352401139744.jpg
+hero: /2012/11/2879384390_f287eb54f8_b-e1352401139744.jpg
 enclosure:
   - |
     http://dl.dropbox.com/u/78766980/20%20Show%2018_%20Still%20Tumbrling%20After%20Al.mp3

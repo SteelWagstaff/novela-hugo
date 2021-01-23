@@ -1,10 +1,11 @@
 ---
 title: 'Shake That Thang [Disc #1]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-06-08T08:00:08+00:00
 url: /shake-that-thang-disc-1/
-featured_image: /2016/11/3831396762_8272dc9495_z-298x200.jpg
+hero: /2016/11/3831396762_8272dc9495_z-298x200.jpg
 categories:
   - Mix Tapes
 tags:

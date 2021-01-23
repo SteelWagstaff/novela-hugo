@@ -1,10 +1,11 @@
 ---
 title: 'Another 145 Songs [September 2016]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2016-11-02T15:45:17+00:00
 url: /another-145-songs-september-2016/
-featured_image: /2016/11/september000.jpg
+hero: /2016/11/september000.jpg
 categories:
   - Spotify Playlists
 tags:

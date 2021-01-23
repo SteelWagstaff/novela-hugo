@@ -1,10 +1,11 @@
 ---
 title: 'Mixtapes for Laurel: BULL'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2015-03-10T07:00:36+00:00
 url: /mixtapes-for-laurel-bull/
-featured_image: /2016/11/bull-300x199.jpg
+hero: /2016/11/bull-300x199.jpg
 enclosure:
   - |
     https://media.sas.upenn.edu/pennsound/authors/Bunting/Bunting-Basil_Complete-Reading_SUNY-Buffalo_07-29-66.mp3

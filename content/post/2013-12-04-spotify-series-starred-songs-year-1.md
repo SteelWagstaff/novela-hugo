@@ -1,10 +1,11 @@
 ---
 title: 'Spotify Series: Starred Songs, Year 1'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2013-12-04T23:15:58+00:00
 url: /spotify-series-starred-songs-year-1/
-featured_image: /2016/11/anniversary-e1386095798625-300x200.jpg
+hero: /2016/11/anniversary-e1386095798625-300x200.jpg
 publicize_facebook_url:
   - https://facebook.com/10202942003170688
 publicize_twitter_user:

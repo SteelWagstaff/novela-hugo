@@ -1,10 +1,11 @@
 ---
 title: '50 Tracks [Best of October 2014]'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2014-11-07T20:19:39+00:00
 url: /50-tracks-best-october-2014/
-featured_image: /2016/11/october-e1416866886509.jpg
+hero: /2016/11/october-e1416866886509.jpg
 categories:
   - Spotify Playlists
 tags:

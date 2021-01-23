@@ -1,10 +1,11 @@
 ---
 title: 'Show 9: School Subjects'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-09-06T23:26:48+00:00
 url: /show-9-school-subjects-september-6-2012/
-featured_image: /2016/11/6212611429_d45a554831_o-e1351823998104-300x200.jpg
+hero: /2016/11/6212611429_d45a554831_o-e1351823998104-300x200.jpg
 categories:
   - Radio Shows
 tags:

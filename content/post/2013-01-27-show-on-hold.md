@@ -1,10 +1,11 @@
 ---
 title: Show On Hold
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2013-01-27T21:36:31+00:00
 url: /show-on-hold/
-featured_image: /2016/11/goodbye.jpg
+hero: /2016/11/goodbye.jpg
 categories:
   - Spotify Playlists
 

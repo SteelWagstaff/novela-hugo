@@ -1,10 +1,11 @@
 ---
 title: 'Show 14: The Colors of the Rainbow: Warm Edition'
+timeToRead: 1 
 author: Steel Wagstaff
 type: post
 date: 2012-10-11T23:39:51+00:00
 url: /show-14-the-colors-of-the-rainbow-warm-edition/
-featured_image: /2016/11/7652402586_152589fc34_o-e1413223814200-300x200.jpg
+hero: /2016/11/7652402586_152589fc34_o-e1413223814200-300x200.jpg
 categories:
   - Radio Shows
 tags:
