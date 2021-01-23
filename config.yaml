@@ -8,12 +8,12 @@ pygmentsstyle: 'monokai'
 module:
   imports:
     - path: "github.com/forestryio/hugo-theme-novela"
-paginate: 6
+paginate: 50
 social:
-  twitter: "#"
-  github: "#"
+  twitter: "https://twitter.com/steelwagstaff"
+  github: "https://github.com/steelwagstaff"
   instagram: "#"
-  linkedin: "#"
+  linkedin: "https://www.linkedin.com/in/steel-wagstaff/"
   dribbble: "#"
   youtube: "#"
 taxonomies:
